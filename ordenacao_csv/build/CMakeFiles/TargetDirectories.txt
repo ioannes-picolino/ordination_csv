@@ -1,0 +1,3 @@
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/build/CMakeFiles/edit_cache.dir
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/build/CMakeFiles/teste.dir

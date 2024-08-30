@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/Ordenador.h
+vector
+-
+Pessoa.h
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/Pessoa.h
+chrono
+-
+
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/OrdenadorPorAltura.cpp
+OrdenadorPorAltura.h
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/OrdenadorPorAltura.h
+algorithm
+-
+iostream
+-
+
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/OrdenadorPorAltura.h
+Ordenador.h
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/Ordenador.h
+
+/home/ivan/Desktop/estudos ftt/estudos 6ºsemestre/DP-Estrutura de dados/projetos/ordenacao_csv/Pessoa.h
+string
+-
+
